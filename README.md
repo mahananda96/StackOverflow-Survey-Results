@@ -1,14 +1,11 @@
 # StackOverflow-Survey-Results
 It describe few insights about industry by analyzing Stack Overflow Data - 2017 Survey
 # Table of Contents
-1) Installation
-2) Project Motivation
+1) Project Motivation
+2) Installation
 3) File Descriptions
 4) Results
 
-
-# Installation
-No libraries were required to dowmload and install to run this Notebook. All necessary packages are pre imported in the Notebook
 
 # Project Motivation
 For this project, I used the Stack-Overflow Survey Results-2017. Main motivation is to provide suggestion to newly graduates from industry experts for making decision.
@@ -17,6 +14,9 @@ The main questions answered are:
 ⦁	Question 2: Do having higher degree increase chances of having a higher salary then normal than others?
 ⦁	Question 3: Do Having higher degree increase chances of having a high job satisfaction in a full time developer job?
 ⦁	Question 4: Do Having higher degree increase chances of career satisfaction level?
+
+# Installation
+No libraries were required to dowmload and install to run this Notebook. All necessary packages are pre imported in the Notebook
 
 # File Descriptions
 There is a notebook in this repository which shows the required caluculations and analysis regarding the resuts deduced.
